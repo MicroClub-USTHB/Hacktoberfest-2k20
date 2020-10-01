@@ -1,4 +1,4 @@
-# Micro Club does Hacktoberfest 2019!
+# Micro Club does Hacktoberfest 2020!
 ## 🎃✨ Open to public contribution / Beginners & First timers friendly✨🎃
 
 ![Micro Club does Hacktoberfest](https://www.pixenli.com/image/vYNOOoRQ)
@@ -100,32 +100,23 @@ That's it, you've done your first contribution and you just got to wait for it t
 * **1.** Fork this repo to your own account by clicking the Fork button.
 * **2.** Acess your new fork on your account and clone it -
     Click Clone or Download button and copy the https url link
-* **3.** Head to your Git Bash terminal or normal terminal in mac and specify the directory where you want to clone your project:
-``` cd /derictory ```
-e.g:
-``` cd C:/Users/Microclubist/Desktop ```
+* **3.** Head to your Git Bash terminal or normal terminal in mac and specify the directory where you want to clone your project: ``` cd /derictory ```
+
+    e.g:``` cd C:/Users/Microclubist/Desktop ```
 * **4.** Clone your forked project to your local machine:
-    **git clone "your project's url you just copied"**
-    e.g:
-
-         git clone https://github.com/your_username/Hacktoberfest-2k19.git 
-
+    
+    ```git clone https://github.com/your_username/Hacktoberfest-2k20.git``` 
 * **5.** Add your changes ([See challenges bellow](challenges/README.md))
-
 * **6.** Stage the changes you made to the branch you're working in (master)
         
-        git add .
-This command adds all different changes you made to the branch.
-
+    ```git add .``` (This command adds all different changes you made to the branch.)
 * **7.** Commit your changes with a short comment,e.g:
 
-        git commit -m "updated some files and fixed bugs"
+    ```git commit -m "updated some files and fixed bugs"```
+* **8.** Push your changes to your working branch (we're using **master** in this example but you may want to work on a side branch)
 
-* **8.** Push your changes
-
-        git push origin master
-
-* **9.** Go back on your GitHub to finalize the work
+    ```git push origin master```
+* **9.** Go back to your GitHub to finalize the work
     * Check if changes were updated to your Fork on your GitHub account.
     * Now submit the changes of your own fork to the original project repo with a **Pull Request**.
     * Click button ***"Compare & pull request"***
