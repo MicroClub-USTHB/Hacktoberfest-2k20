@@ -6,6 +6,14 @@ Hi there! Welcome to Micro Club's repo for Hacktoberfest! We're most excited to 
 
 All contribution is welcome (_adding features✨, bug fix🔧, bug report🐛, upload projects📱, design✒️, documentation📝, fixing typos ...etc_). but we prefer **quality over quantity** so avoid making 5 PRs to fix 5 obvious grammar mistakes just to get the challenge completed faster (it may not be merged).
 
+### Event Details:
+ Hacktoberfest® is open to everyone in the global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+ - You can sign up anytime between October 1 and October 31. Just be sure to sign up on the ***[official Hacktoberfest website](https://hacktoberfest.digitalocean.com/login)*** for your pull requests to count. 
+- Hacktoberfest is a celebration open to everyone in the global community.
+- Pull requests can be made in any GitHub-hosted repositories/projects.
+- You can sign up anytime between October 1 and October 31.
+
+
 To contribute to this repo, please make sure to follow the rules.
 
 ### Rules:

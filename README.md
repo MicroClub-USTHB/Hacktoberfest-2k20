@@ -5,6 +5,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+### TL;DR: Register to the Hacktoberfest challenge, make 4 vaild Pull requests (PRs) on public repos on GitHub during the month of October and win a Limited Edition T-Shirt or have a Tree planted!
 
 ## Micro Club does Hacktoberfest! (MC's 3rd Edition)
 Hello there, we are Micro Club, a computer science student club at USTHB and we're taking part in Hacktoberfest for our 3rd consicutive year! 
@@ -17,12 +18,12 @@ This repo is by Micro Club members dedicated to anyone willing to learn and shar
 Hacktoberfest is a month-long celebration of open source from **October 1st - 31st** every year. It's been around for 7 years and it is presented by [Digital Ocean, Inc](https://www.digitalocean.com/) and sponsored by [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source).
 
 Event partners of this 7th edition of Hacktoberfest:
-- <a href="https://dev.to/"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV logo" height="30" width="30"></a> [DEV.to](https://dev.to/) The open source community platform dedicated to devs! (a Medium X Twitter for devs!) 
-- <a href="https://hacktoberfest.digitalocean.com/intel.pdf"><img src="https://www.intel.com/content/dam/logos/intel-header-logo.svg" alt="intel logo" height="30" width="30"></a> [Intel](https://hacktoberfest.digitalocean.com/intel.pdf) has joined the Hacktoberfest celebration this year to build on this foundation along with hundreds of thousands of software engineers around the world. 
+- <a href="https://dev.to/"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV logo" width="30"></a> The open source community platform dedicated to devs! It is built on the open source project "**forem**" (a crossover between Medium & Twitter for devs!)  [Check DEV's challenge](https://github.com/forem/forem).
+- <a href="https://hacktoberfest.digitalocean.com/intel.pdf"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Intel_logo_%282020%2C_dark_blue%29.svg" alt="intel logo" width="40"></a> has joined the Hacktoberfest celebration this year to build on this foundation along with hundreds of thousands of software engineers around the world. [Checkout Intel's Challenge](https://hacktoberfest.digitalocean.com/intel.pdf).
 - AND MORE! Check them out on [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
 
 
-The first **50,000** people around the world to complete **4 valid pull requests** contribution to any public repo (including this one) will recieve a **FREE LIMITED EDITON T-SHIRT & COOL SWAGS!** or can chose to have a **TREE**!
+The first **70,000** people around the world to complete **4 valid pull requests** contribution to any public repo (including this one) will recieve a **FREE LIMITED EDITON T-SHIRT & COOL SWAGS!** or can chose to have a **TREE**!
 
 ### For more info about the event: [Hacktoberfest event website](https://hacktoberfest.digitalocean.com/)
 
@@ -32,13 +33,21 @@ The first **50,000** people around the world to complete **4 valid pull requests
 > - Hacktoberfest ends on October 31st (last day at midnight)
 > - There are lots of Online Meetup Events during month of October. [Check event list](https://hacktoberfest.digitalocean.com/events)
 
+### Trick🎃 or Treat🍬, Tee👕 or Tree🌲! Why participate and what's in it for you?
+
+Sign up and complete the Hacktoberfest challenge and:
+- Win a **Limited Edition Tee Shirt**!
+- Or have a **Tree** planted in honor to your success!
+- Learn how to contribute to open source!
+- Learn new technology and share your knowledge with others!
+- Be part of a global community!
 
 ## How to participate and contribute to this project?
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%20participation%3A-How%20to%20get%20involved%20and%20win%20that%20AWESOME%20LIMITED%20EDITION%20T--SHIRT%3F%20Check%20this-blueviolet?style=for-the-badge)
 
 Create your very first **Pull Request** to any public repository on GitHub (**including this one**) and contribute to the open source developer community.
 
-### Before you start, make sure to read the [CONTRIBUTION](/CONTRIBUTING.md) rules.
+#### Before you start, make sure to read the [CONTRIBUTION](/CONTRIBUTING.md) rules.
 
 1. Make sure to first [Registister in the Hacktoberfest Challenge](https://hacktoberfest.digitalocean.com/login)
 2. Fork this repo
@@ -67,8 +76,6 @@ Happy hacking!!
 ---
 
 ## Getting started - Easy (GitHub in-browser tutorial):
-
-
 
 1. Fork this repository:
     - Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
