@@ -18,8 +18,8 @@ This repo is by Micro Club members dedicated to anyone willing to learn and shar
 Hacktoberfest is a month-long celebration of open source from **October 1st - 31st** every year. It's been around for 7 years and it is presented by [Digital Ocean, Inc](https://www.digitalocean.com/) and sponsored by [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source).
 
 Event partners of this 7th edition of Hacktoberfest:
-- <a href="https://dev.to/"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV logo" width="30"></a> The open source community platform dedicated to devs! It is built on the open source project "**forem**" (a crossover between Medium & Twitter for devs!)  [Check DEV's challenge](https://github.com/forem/forem).
-- <a href="https://hacktoberfest.digitalocean.com/intel.pdf"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Intel_logo_%282020%2C_dark_blue%29.svg" alt="intel logo" width="40"></a> has joined the Hacktoberfest celebration this year to build on this foundation along with hundreds of thousands of software engineers around the world. [Checkout Intel's Challenge](https://hacktoberfest.digitalocean.com/intel.pdf).
+- <a href="https://dev.to/"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV logo" width="25"></a> The open source community platform dedicated to devs! It is built on the open source project "**forem**" (a crossover between Medium & Twitter for devs!)  [Check DEV's challenge](https://github.com/forem/forem).
+- <a href="https://hacktoberfest.digitalocean.com/intel.pdf"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Intel_logo_%282020%2C_dark_blue%29.svg" alt="intel logo" width="30"></a> has joined the Hacktoberfest celebration this year to build on this foundation along with hundreds of thousands of software engineers around the world. [Checkout Intel's Challenge](https://hacktoberfest.digitalocean.com/intel.pdf).
 - AND MORE! Check them out on [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
 
 
@@ -137,10 +137,6 @@ All PRs will be merged asap.
 
 Please refer to [List of Challenges](challenges/README.md) for full details. It will be updated progressively to include more fun contribution challenges and projects for all levels (Youngling > Jedi Master) and all different study fields and skill sets (not just for programmers/coders)!
 
-1. Add a profile page
-2. Add your own project
-3. Web site for the repo
-4. 
 
 ### Bonus tasks for everyone:
 1. My Octocat challenge! :octocat:
