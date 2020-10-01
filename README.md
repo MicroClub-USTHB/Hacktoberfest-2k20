@@ -17,20 +17,18 @@ This repo is by Micro Club members dedicated to anyone willing to learn and shar
 
 Hacktoberfest is a month-long celebration of open source from **October 1st - 31st** every year. It's been around for 7 years and it is presented by [Digital Ocean, Inc](https://www.digitalocean.com/) and sponsored by [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source).
 
+The first **70,000** people around the world to complete **4 valid pull requests** contribution to any public repo (including this one) will recieve a **FREE LIMITED EDITON T-SHIRT & COOL SWAGS!** or can chose to have a **TREE**!
+
 Event partners of this 7th edition of Hacktoberfest:
 - <a href="https://dev.to/"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV logo" width="25"></a> The open source community platform dedicated to devs! It is built on the open source project "**forem**" (a crossover between Medium & Twitter for devs!)  [Check DEV's challenge](https://github.com/forem/forem).
 - <a href="https://hacktoberfest.digitalocean.com/intel.pdf"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Intel_logo_%282020%2C_dark_blue%29.svg" alt="intel logo" width="30"></a> has joined the Hacktoberfest celebration this year to build on this foundation along with hundreds of thousands of software engineers around the world. [Checkout Intel's Challenge](https://hacktoberfest.digitalocean.com/intel.pdf).
 - AND MORE! Check them out on [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
-
-
-The first **70,000** people around the world to complete **4 valid pull requests** contribution to any public repo (including this one) will recieve a **FREE LIMITED EDITON T-SHIRT & COOL SWAGS!** or can chose to have a **TREE**!
 
 ### For more info about the event: [Hacktoberfest event website](https://hacktoberfest.digitalocean.com/)
 
 > - Hacktoberfest is open to everyone in the global community!
 > - Pull requests can be made in any GitHub-hosted repositories/projects.
 > - Sign up anytime between October 1 and October 31.
-> - Hacktoberfest ends on October 31st (last day at midnight)
 > - There are lots of Online Meetup Events during month of October. [Check event list](https://hacktoberfest.digitalocean.com/events)
 
 ### Trick🎃 or Treat🍬, Tee👕 or Tree🌲! Why participate and what's in it for you?
