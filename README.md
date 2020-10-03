@@ -1,7 +1,7 @@
 # Micro Club does Hacktoberfest 2020!
 ## 🎃✨ Open to public contribution / Beginners & First timers friendly✨🎃
 
-![Micro Club does Hacktoberfest](https://www.pixenli.com/image/vYNOOoRQ)
+![Micro Club does Hacktoberfest](https://www.pixenli.com/miniature/6rlUQvS0)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
