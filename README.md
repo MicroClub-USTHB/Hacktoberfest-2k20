@@ -7,12 +7,23 @@
 
 ### TL;DR: Register to the Hacktoberfest challenge, make 4 vaild Pull requests (PRs) on public repos on GitHub during the month of October and win a Limited Edition T-Shirt or have a Tree planted!
 
-## Micro Club does Hacktoberfest! (MC's 3rd Edition)
+# Table of Content
+* [TL:DR](#tldr-register-to-the-hacktoberfest-challenge-make-4-vaild-pull-requests-prs-on-public-repos-on-github-during-the-month-of-october-and-win-a-limited-edition-t-shirt-or-have-a-tree-planted)
+* [Table of Content](#table-of-content)
+    - [I. The Who: Micro Club does Hacktoberfest!](#i-the-who-micro-club-does-hacktoberfest-mcs-3rd-edition)
+    * [I. The what: What is Hacktoberfest?](#ii-the-what-what-is-hacktoberfest?)
+    - [III. The Why: Trick🎃 or Treat🍬, Tee👕 or Tree🌲! What's in it for you?](#iii-the-why-trick-or-treat-tee-or-tree-why-participate-and-whats-in-it-for-you)
+    * [IV. The How: How to participate and contribute to this project?](#iv-the-how-how-to-participate-and-contribute-to-this-project)
+    - [V. Contributing: Tutorials, challenges & BONUSES!! (all levels)](#v-Contributing-tutorials-challenges-&-bonuses-(all-levels))
+* [More Pull requests!](#want-to-do-more-pull-requests-heres-a-quick-list-for-other-begginers-friendly-ressources)
+* [Contact](#contact)
+
+## I. The Who: Micro Club does Hacktoberfest! (MC's 3rd Edition)
 Hello there, we are Micro Club, a computer science student club at USTHB and we're taking part in Hacktoberfest for our 3rd consicutive year! 
 
 This repo is by Micro Club members dedicated to anyone willing to learn and share their knowledge while contributing to the open source community while having a fun challenge !!
 
-## What is Hacktoberfest?
+## II. The What: What is Hacktoberfest?
 > #### "Changing the open source community, one pull request at a time."- Digital Ocean.
 
 Hacktoberfest is a month-long celebration of open source from **October 1st - 31st** every year. It's been around for 7 years and it is presented by [Digital Ocean, Inc](https://www.digitalocean.com/) and sponsored by [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source).
@@ -31,16 +42,23 @@ Event partners of this 7th edition of Hacktoberfest:
 > - Sign up anytime between October 1 and October 31.
 > - There are lots of Online Meetup Events during month of October. [Check event list](https://hacktoberfest.digitalocean.com/events)
 
-### Trick🎃 or Treat🍬, Tee👕 or Tree🌲! Why participate and what's in it for you?
+___
+
+### III. The Why: Trick🎃 or Treat🍬, Tee👕 or Tree🌲! Why participate and what's in it for you?
+
+![](https://www.pixenli.com/image/pkgU7OQA)
 
 Sign up and complete the Hacktoberfest challenge and:
 - Win a **Limited Edition Tee Shirt**!
 - Or have a **Tree** planted in honor to your success!
-- Learn how to contribute to open source!
-- Learn new technology and share your knowledge with others!
-- Be part of a global community!
+- Learn how to **contribute to open source**!
+- **Learn new technology** and **share your knowledge** with others!
+- Be part of a **global community**!
 
-## How to participate and contribute to this project?
+___
+
+## IV. The How: How to participate and contribute to this project?
+
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%20participation%3A-How%20to%20get%20involved%20and%20win%20that%20AWESOME%20LIMITED%20EDITION%20T--SHIRT%3F%20Check%20this-blueviolet?style=for-the-badge)
 
 Create your very first **Pull Request** to any public repository on GitHub (**including this one**) and contribute to the open source developer community.
@@ -49,13 +67,13 @@ Create your very first **Pull Request** to any public repository on GitHub (**in
 
 1. Make sure to first [Registister in the Hacktoberfest Challenge](https://hacktoberfest.digitalocean.com/login)
 2. Fork this repo
-3. Check the [**Issues**📌], find interesting contribution requests.
+3. Check the **[Issues📌](https://github.com/MicroClub-USTHB/Hacktoberfest-2k20/issues)**, find interesting contribution requests.
     * Issues labbeled 🔖 **"good first issue 🔰"** are begginers-friendly
     * Issues labbeled 🔖 **"Hacktoberfest"** are all related to the event (helps you out)
 4. Make your contribution (add project, fix bug🐛, add feature✨, documentation📝 ...).
     Please refer to the [HACKTOBERFEST CHALLENGES LIST](challenges/README.md)
     * You can do all challenges at once.
-    * You can do more challenges (keep an eye on the **Issues**)
+    * You can do more challenges (keep an eye on the **[Issues](https://github.com/MicroClub-USTHB/Hacktoberfest-2k20/issues)**)
 5. make a Pull Request to this very original repo and wait for maintainers to merge it!
     * You can do one (1) Pull request / challenge to cumulate score!
 
@@ -71,101 +89,66 @@ PRs that do not follow the contribution rules won't be accepted and will be labb
 
 Happy hacking!!
 
----
+___
 
-## Getting started - Easy (GitHub in-browser tutorial):
+## V. Contributing: Tutorials, Challenges & BONUSES!! (all levels)
 
-1. Fork this repository:
-    - Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+### Tutorials:
+Want to get started with a step by step tutorial for contributing, using different tools? You can check the [Tutorials](tutorials/README.md)
 
-2. Make your changes:
-    - Open the files you want to edit and fix the issues or add features (see challenge tasks bellow). You can use drag&drop to add new files and new folders to the repo.
+<details>
+<summary><b>Click to expand tutorial list</b></summary>
 
-3. Commit changes:
-    - Commit your changes and add a short explanatory message on your contribution.
-4. Do your Pull Request
-    - Now click on the button Compare & pull request and compare between forks then add your pull request with a comment.
+- [Getting started: GitHub (In your Browser) - (Easy)](tutorials/(Easy)&#32;GitHub&#32;(In&#32;your&#32;Browser).md)
+- [Getting Started: GitHub Desktop (GUI) - (Easy)](tutorials/(Easy)&#32;GitHub&#32;Desktop&#32;(GUI).md)
+- [Getting Started: GitKraken (GUI) - (Intermediate)](tutorials/(Intermediate)&#32;GitKraken&#32;(GUI).md)
+- [Getting Started: Git (CLI) - (Intermediate)](tutorials/(Intermediate)&#32;Git&#32;(CLI).md)
+- [Getting Started: Visual Studio Code (CLI) - (Intermediate)](tutorials/(Intermediate)&#32;Visual&#32;Studio&#32;Code&#32;(CLI).md)
+- [Getting Started: Git CLI + GiHub CLI - (Advancd)](tutorials/(Advanced)&#32;Git&#32;+&#32;GitHub&#32;CLI&#32;(commande&#32;line).md)
+</details>
 
-That's it, you've done your first contribution and you just got to wait for it to get merged! You can now do the two remaining challenge tasks!
-
-
----
-
-## Getting started - Advanced (using Git CLI)
-
-#### First things first, go [![git](https://img.shields.io/badge/Get-Git-orange?style=flat-square&logo=git)](https://git-scm.com) to get started & install it on your machine.
-
-* **1.** Fork this repo to your own account by clicking the Fork button.
-* **2.** Acess your new fork on your account and clone it -
-    Click Clone or Download button and copy the https url link
-* **3.** Head to your Git Bash terminal or normal terminal in mac and specify the directory where you want to clone your project: ``` cd /derictory ```
-
-    e.g:``` cd C:/Users/Microclubist/Desktop ```
-* **4.** Clone your forked project to your local machine:
-    
-    ```git clone https://github.com/your_username/Hacktoberfest-2k20.git``` 
-* **5.** Add your changes ([See challenges bellow](challenges/README.md))
-* **6.** Stage the changes you made to the branch you're working in (master)
-        
-    ```git add .``` (This command adds all different changes you made to the branch.)
-* **7.** Commit your changes with a short comment,e.g:
-
-    ```git commit -m "updated some files and fixed bugs"```
-* **8.** Push your changes to your working branch (we're using **master** in this example but you may want to work on a side branch)
-
-    ```git push origin master```
-* **9.** Go back to your GitHub to finalize the work
-    * Check if changes were updated to your Fork on your GitHub account.
-    * Now submit the changes of your own fork to the original project repo with a **Pull Request**.
-    * Click button ***"Compare & pull request"***
-    * Write a description of the changes you contributed to the repo.
-
-### That's it, you Git it!!!
-If you liked this experience Star :star2: the repo (click **Star** button near Fork button at the top of the web page).
-
-That's it, you just completed your first contribution and got your first Pull Request!
-All PRs will be merged asap.
-
-[![Website](https://img.shields.io/website?color=important&down_message=Hacktoberfest%20progress&label=Check%20profile%27s&logo=github&style=for-the-badge&up_color=https%3A%2F%2Fhacktoberfest.digitalocean.com%2Fprofile&up_message=https%3A%2F%2Fhacktoberfest.digitalocean.com%2Fprofile&url=https%3A%2F%2Fhacktoberfest.digitalocean.com%2Fprofile)](http://hacktoberfest.digitalocean.com/profile)
-
----
-
-
-## LIST OF CHALLENGES TO COMPLETE: ([See full list here](challenges/README.md))
-
-Please refer to [List of Challenges](challenges/README.md) for full details. It will be updated progressively to include more fun contribution challenges and projects for all levels (Youngling > Jedi Master) and all different study fields and skill sets (not just for programmers/coders)!
-
-
-### Bonus tasks for everyone:
-1. My Octocat challenge! :octocat:
-Build your own Octocat!
-    - **Step 1:** Go to [MyOctocat](https://myoctocat.com/)
-    - **Step 2:** Create your Octocat: Design, syle and accessorize it.
-    - **Step 3:** Save your Octocat:.png file `username_OctocatName.png` e.g: `Microclubist_CutieCat.png`.
-    - **Step 4:** Share it! Upload the file to `/myOctocat` folder and make a pull request!
-    
-    **We may also print your octocat as sticker for upcoming events! So make it look good stay tuned!**
-
-2. DEV.to article:
-    - **Step 1:** Got to [DEV](https://dev.to/)
-    - **Step 2:** Create an acount using your GitHub (it will give you a pecial Hacktoberfest Badge!)
-    - **Step 3:** Write an article (100 - 500 words) about your hacktoberfest experience.
-    - **Step 4:** Mention your contribution to Micro Club's repo, you can link your pull request & issue urls (you can even add your octocat to the blog articl ;)
-    - **Step 5:** Send us a link and share it on LinkedIn, Twitter & other media and we'll give you a special shoutout on our social media!
-
-    **We may share certain pprojects, contributions and articles on our social media as a shout out to selected contributors!**
-
+These tutorials will help you familiarize with the tools you'll be using to contribute to repo's on GitHub but also to teach you about version control system (VCS) that you can use to manage, structure and organize your different projects, even non-dev projects!
 
 `------------------------------------------------------------------`
 
-### Want to do more PullRequests? Here's a quick list for other begginers friendly ressources:
+### List of Challenges & Tasks: ([See full list here](challenges/README.md))
+
+Please refer to [List of Challenges](challenges/README.md) for full details. It will be updated progressively to include more fun contribution challenges and projects for all levels (Youngling > Jedi Master) and all different study fields and skill sets **(not just for programmers/coders)**!
+
+`------------------------------------------------------------------`
+
+---
+
+### Bonus tasks for everyone:
+### 1. My Octocat challenge! :octocat:
+Build your own Octocat!
+- **Step 1:** Go to [MyOctocat](https://myoctocat.com/)
+- **Step 2:** Create your Octocat: Design, syle and accessorize it.
+- **Step 3:** Save your Octocat: chose .png file, name it `username_OctocatName.png` e.g: `Microclubist_CutieCat.png`.
+- **Step 4:** Share it! Upload the file to `/myOctocat` folder and make a pull request!
+
+**We may print your octocat as sticker for upcoming events or share it on social media! So make it look good and stay tuned!**
+
+ ### 2. DEV article:
+
+- **Step 1:** Got to [DEV](https://dev.to/)
+- **Step 2:** Create an acount using your GitHub (it will give you a pecial Hacktoberfest Badge!)
+- **Step 3:** Write an article (100 - 500 words) about your hacktoberfest experience.
+- **Step 4:** Mention your contribution to Micro Club's repo, you can link your pull request & issue urls (you can even add your octocat to the blog articl ;)
+- **Step 5:** Send us a link and share it on LinkedIn, Twitter & other media and we'll give you a special shoutout on our social media!
+
+    **We may share certain pprojects, contributions and articles on our social media as a shout out to selected contributors!**
+
+___
+
+### Want to do more Pull Requests? Here's a quick list for other begginers friendly ressources:
 
 * [Up for Grabs](https://up-for-grabs.net/#/) Explore open source projects and jump in!
 * [Issuehub.io](http://issuehub.io/) Contribute to Open Source. Search issue labels to find the right project for you!
 * [First Timers Only](https://www.firsttimersonly.com/) Friendly Open Source projects should reserve specific issues for newbies.
 * [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners) A list of awesome beginner-friendly projects.
 
-
+___
 
 ### Contact:
 - :e-mail: Email: microclub.contact@gmail.com

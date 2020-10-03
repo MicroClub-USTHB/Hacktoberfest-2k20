@@ -21,16 +21,16 @@ To contribute to this repo, please make sure to follow the rules.
 * Check the **List of Challenges** if you don't know what to contribute to.
 * Translations should be in their own dedicated folder, at the root ***[/translations](../translations)***
 * All uploaded projects should go into the ***[/projects](../projects)*** folder inside their dedicated topic folder ``` e.g: _/projects/MyAmazingWebsiteProject ```
-* Don't upload your projects in a compressed format zip/rar files.
+* Don't upload your projects in a compressed format zip/rar files. The source code must be accessible.
 * Don't upload someone elses project as your own contribution (stealing from other repo's in prohibited)
 * Dont upload your node modules to the repo (use .gitignore)
 * Always describe your project with a README.md inside your folder.
 * Always check repo's open ***[issues](issues)*** to avoid duplicates, conflict and ambigous work.
 * Always open an issue stating the subject of your upcoming contribution (if it is significant one).
-* Always assign yourself to an issue by commenting "assigned" before starting to work on it.
+* Always assign yourself to an issue by commenting **"taken"** before starting to work on it.
 * Open a pull request to add project, fix bugs, add features, enhance documentation ...
 * Always make sure to write a proper explanation in your pull request.
-* Always sure your own forked repo is updated to the latest version of the original repo before you make a contribution ``` git pull ``` as it is often updated.
+* Always make sure your own forked repo is updated to the latest version of the original repo before you make a contribution (It is done by a PR from original repo, to your fork) as it is often updated.
 * If the PR doesn't align with the event and/or the repo's rules then you'll be asked to make changes, otherwise it will be marked as **invalid.** :x: and won't count in the challenge.
 
 Please:
