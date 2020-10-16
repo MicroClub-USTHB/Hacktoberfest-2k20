@@ -1,0 +1,29 @@
+<form action="/users/login" method="POST" class="form">
+  <div class="info">
+    <label for="email">Email</label>
+    <input
+      type="email"
+      name="email"
+      id="email"
+      placeholder="Email adresse"
+      required
+    />
+  </div>
+
+  <div class="info">
+    <label for="password">Password</label>
+    <input
+      type="password"
+      name="password"
+      id="password"
+      placeholder="Password"
+      required
+    />
+  </div>
+
+  <button type="submit" id="btn">
+    Login
+  </button>
+
+  <p>Don't have an account<a href="/users/register">register</a>.</p>
+</form>
