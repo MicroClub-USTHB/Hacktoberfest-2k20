@@ -166,7 +166,7 @@ Créez votre propre Octocat!
 
 ---
 
-### Contact:
+### Contact :
 
 - :e-mail: Email: microclub.contact@gmail.com
 - LinkedIn Page: [Micro Club](https://www.linkedin.com/company/micro-club/)
