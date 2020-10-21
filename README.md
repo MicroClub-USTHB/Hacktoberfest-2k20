@@ -5,8 +5,11 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+**Other README langages:** [🇫🇷](translations/README_Fr.md)
+
 ### TL;DR: Register to the Hacktoberfest challenge, make 4 vaild Pull requests (PRs) on public repos on GitHub during the month of October and win a Limited Edition T-Shirt or have a Tree planted!
 
+### 🔗 Link to Micro Club's hacktoberfest-2k20 [GitHub Pages / Repo Website](https://microclub-usthb.github.io/Hacktoberfest-2k20/)
 # Table of Content
 * [TL:DR](#tldr-register-to-the-hacktoberfest-challenge-make-4-vaild-pull-requests-prs-on-public-repos-on-github-during-the-month-of-october-and-win-a-limited-edition-t-shirt-or-have-a-tree-planted)
 * [Table of Content](#table-of-content)
@@ -21,7 +24,7 @@
 ## I. The Who: Micro Club does Hacktoberfest!
 Hello there, we are [Micro Club](https://www.facebook.com/Micro.Club.USTHB/), a computer science student club at USTHB and we're taking part in Hacktoberfest for our 3rd consicutive year! 
 
-Founded in March the 5th,1985 as the first scientific club in Algeria, Micro Club is operating as a scientific student club and a nonprofit organization that aims at popularizing computer science, IT and technology fields among the student community and extended to all those willing to learn and share their knowledge. Thus we put this repo at disposition to anyone willing to learn and share their knowledge while contributing to the open source community while having a fun challenge !!
+Founded in **March the 5th,1985** as the first scientific club in Algeria, Micro Club is operating as a scientific student club and a nonprofit organization that aims at popularizing computer science, IT and technology fields among the student community and extended to all those willing to learn and share their knowledge. Thus we put this repo at disposition to anyone willing to learn and share their knowledge while contributing to the open source community while having a fun challenge !!
 
 Micro Club will host online meetup events, workshops, update projects and challenges and more during the month of October! Stay tuned!
 
@@ -122,7 +125,8 @@ Please refer to [List of Challenges](challenges/README.md) for full details. It 
 ---
 
 ### Bonus tasks for everyone:
-### 1. My Octocat challenge! :octocat: <img src="https://s8.gifyu.com/images/output_jmhOLS.gif" width="100px"/>
+**These tasks are to be done after you finish your 4 valid pull requests!**
+### 1. My Octocat challenge! :octocat: <img src="https://s8.gifyu.com/images/output_jmhOLS.gif" width="200px"/>
 Build your own Octocat! 
 - **Step 1:** Go to [MyOctocat](https://myoctocat.com/)
 - **Step 2:** Create your Octocat: Design, syle and accessorize it.
@@ -154,6 +158,8 @@ ___
 
 ### Contact:
 - :e-mail: Email: microclub.contact@gmail.com
+- Discord: [Micro Club Community Guild](https://discord.gg/b5jfAGZ)
 - LinkedIn Page: [Micro Club](https://www.linkedin.com/company/micro-club/)
 - LinkedIn Contact: [Micro Club USTHB](https://www.linkedin.com/in/micro-club-usthb-870908156/)
 - Facebook: [Micro Club USTHB](https://www.facebook.com/Micro.Club.USTHB/)
+- GitHub Pages / Repo Website [microclub-usthb.github.io/Hacktoberfest-2k20](https://microclub-usthb.github.io/Hacktoberfest-2k20/)
