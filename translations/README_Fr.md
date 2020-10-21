@@ -6,6 +6,8 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+**Autres README langages :** [ENG](translations/README.md)
+
 ### TL;DR: Inscrivez-vous au défi Hacktoberfest, faites 4 Pull requests (PRs) valides sur les répertoires publics de GitHub tout au long du mois d'Octobre et gagnez un T-shirt en édition limitée ou faites-vous planter un arbre !
 
 # Table des matières
