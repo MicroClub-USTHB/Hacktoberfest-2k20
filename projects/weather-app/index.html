@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/loadingio/ldbutton@v1.0.1/dist/ldbtn.min.css" />
+    <link rel="stylesheet" type="text/css"
+        href="https://cdn.jsdelivr.net/gh/loadingio/loading.css@v2.0.0/dist/loading.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+
+    <title>Weather app</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class=wrapper>
+            <div class="city">
+
+
+                <input type="text" id="city-input" />
+                <button id="search" class="ld ld-over-full"><i class="fas fa-play"></i>
+
+                </button>
+            </div class="city-search">
+
+            <div class="item">
+                <img src="https://img.icons8.com/dotty/80/000000/thermometer.png" />
+                <div class="text"><span class="variable" id="temperature"></span></div>
+            </div>
+
+            <div class="item">
+                <img src="https://img.icons8.com/dotty/80/000000/hygrometer.png" />
+                <div class="text"><span class="variable" id="humidity"></span>
+                </div>
+
+            </div>
+
+            <div class="item">
+                <img src="https://img.icons8.com/dotty/80/000000/partly-cloudy-day.png">
+                <div class="text"><span class="variable" id="cloads"></span></div>
+
+            </div>
+
+            <div class="item">
+                <img src="https://img.icons8.com/dotty/80/000000/sunrise.png" />
+                <div class="text"> <span class="variable" id="sunrise"></span></div>
+
+            </div>
+
+            <div class="item">
+                <img src="https://img.icons8.com/dotty/80/000000/sunset.png" />
+                <div class="text"><span class="variable" id="sundown"></span></div>
+
+            </div>
+
+            <div class="item">
+                <img src="https://img.icons8.com/dotty/80/000000/windsock.png" />
+                <div class="text"><span class="variable" id="wind"></span></div>
+
+            </div>
+
+        </div>
+
+    </div>
+    <footer>
+        <p>icons </p>
+        <p><a href="https://icons8.com/icon/77681/hygrometer">Hygrometer icon by Icons8</a>,
+            <a href="https://icons8.com/icon/77680/thermometer">Thermometer icon by Icons8</a>,
+            <a href="https://icons8.com/icon/43459/partly-cloudy-day">Partly Cloudy Day icon by Icons8</a>,
+            <a href="https://icons8.com/icon/101849/sunrise">Sunrise icon by Icons8</a>,
+            <a href="https://icons8.com/icon/101845/sunset">Sunset icon by Icons8</a>,
+            <a href="https://icons8.com/icon/F-XaEritKPx-/windsock">Windsock icon by Icons8</a>,
+        </p>
+
+        <p>Weather API: 
+        <a href="https://fcc-weather-api.glitch.me">Free Code Camp Weather API Pass-through
+        </a> 
+    </p>
+    </footer>
+
+
+    <script src="index.js"></script>
+
+</body>
+
+</html>
