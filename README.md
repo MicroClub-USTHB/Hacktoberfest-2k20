@@ -104,7 +104,7 @@ Want to get started with a step by step tutorial for contributing, using differe
 <details>
 <summary><b>Click to expand tutorial list</b></summary>
 
-- [Getting started: GitHub (In your Browser) - (Easy)](tutorials/README.md)
+- [Getting started: GitHub (In your Browser) - (Easy)](tutorials/Github_In_Your_Browser_(Easy).md)
 - [Getting Started: GitHub Desktop (GUI) - (Easy)](tutorials/(Easy)&#32;GitHub&#32;Desktop&#32;(GUI).md)
 - [Getting Started: GitKraken (GUI) - (Intermediate)](tutorials/(Intermediate)&#32;GitKraken&#32;(GUI).md)
 - [Getting Started: Git (CLI) - (Intermediate)](tutorials/(Intermediate)&#32;Git&#32;(CLI).md)
