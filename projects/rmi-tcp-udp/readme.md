@@ -2,4 +2,4 @@
 
 
 ## Ways to contribte
-- Add any features you think are necessary 
+- Add any features you think are necessaryy
