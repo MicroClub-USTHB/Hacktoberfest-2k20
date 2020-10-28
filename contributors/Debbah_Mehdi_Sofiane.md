@@ -3,16 +3,16 @@
  ***
 
 ## Location:
-- Algiers
+- Algiers/Algeria
 ***
 
 ## Academics
-- Computer Science and network  at USTHB.
+- first year  Computer Science and network  at USTHB.
 - software engineer bachelor at USTHB.
 ***
 
 ## Career
-- active membre at micro club.
+-membre at micro club.
 
 ##  Interests
 - video games 
@@ -24,6 +24,7 @@
 ## Development
 - i'm software engineer developer
 - java  and python developer 
+- network adminstrator
 
 ***
 
