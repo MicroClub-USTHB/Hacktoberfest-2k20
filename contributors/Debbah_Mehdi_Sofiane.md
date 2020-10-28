@@ -7,12 +7,12 @@
 ***
 
 ## Academics
-- first year  Computer Science and network  at USTHB.
+- First year  Computer Science and network  at USTHB.
 - software engineer bachelor at USTHB.
 ***
 
 ## Career
--membre at micro club.
+- Member at MicroClub-USTHB.
 
 ##  Interests
 - video games 
