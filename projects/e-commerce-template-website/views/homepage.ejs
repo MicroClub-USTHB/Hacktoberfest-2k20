@@ -1,0 +1,85 @@
+<nav>
+  <h2 id="logo">Logo</h2>
+  <div class="search-bar">
+    <i class="fas fa-search"></i>
+    <input class="search" type="search" placeholder="search" />
+  </div>
+  <ul class="nav-links">
+    <li>
+      <a href="#"><i class="fas fa-user user"></i></a>
+    </li>
+    <li>
+      <a href="#"><i class="fas fa-shopping-cart cart"></i></a>
+    </li>
+  </ul>
+</nav>
+
+<div class="container">
+  <% products.forEach(product=>{ %>
+  <a href="/product/<%-product._id%>">
+    <div class="cell">
+      <div class="image"></div>
+      <div class="product-name"><%-product.name%></div>
+      <div class="description"><%-product.description%></div>
+      <div class="price"><%-product.price%>$</div>
+    </div>
+  </a>
+  <%})%>
+  <!-- <a href="/product/1" class="product-link">
+    <div class="cell">
+      <div class="image">image</div>
+      <div class="product-name">product name</div>
+      <div class="description">product description</div>
+
+      <div class="price">product price</div>
+    </div>
+  </a>
+  <div class="cell">
+    <div class="image">image</div>
+    <div class="product-name">product name</div>
+    <div class="description">product description</div>
+
+    <div class="price">product price</div>
+  </div>
+  <div class="cell">
+    <div class="image">image</div>
+    <div class="product-name">product name</div>
+    <div class="description">product description</div>
+
+    <div class="price">product price</div>
+  </div>
+  <div class="cell">
+    <div class="image">image</div>
+    <div class="product-name">product name</div>
+    <div class="description">product description</div>
+
+    <div class="price">product price</div>
+  </div>
+  <div class="cell">
+    <div class="image">image</div>
+    <div class="product-name">product name</div>
+    <div class="description">product description</div>
+
+    <div class="price">product price</div>
+  </div>
+  <div class="cell">
+    <div class="image">image</div>
+    <div class="product-name">product name</div>
+    <div class="description">product description</div>
+
+    <div class="price">product price</div>
+  </div>
+  <div class="cell">
+    <div class="image">image</div>
+    <div class="product-name">product name</div>
+    <div class="description">product description</div>
+    <div class="price">product price</div>
+  </div>
+  <div class="cell">
+    <div class="image">image</div>
+    <div class="product-name">product name</div>
+    <div class="description">product description</div>
+
+    <div class="price">product price</div>
+  </div> -->
+</div>
