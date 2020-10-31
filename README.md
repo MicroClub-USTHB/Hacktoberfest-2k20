@@ -5,7 +5,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-**Other README langages:** [🇫🇷](translations/README_Fr.md)
+**Other README langages:** [🇫🇷](translations/README_Fr.md),[AR](translations/README_Ar.md)
 
 ### TL;DR: Register to the Hacktoberfest challenge, make 4 vaild Pull requests (PRs) on public repos on GitHub during the month of October and win a Limited Edition T-Shirt or have a Tree planted!
 
@@ -104,7 +104,7 @@ Want to get started with a step by step tutorial for contributing, using differe
 <details>
 <summary><b>Click to expand tutorial list</b></summary>
 
-- [Getting started: GitHub (In your Browser) - (Easy)](tutorials/(Easy)&#32;GitHub&#32;(In&#32;your&#32;Browser).md)
+- [Getting started: GitHub (In your Browser) - (Easy)](tutorials/Github_In_Your_Browser_(Easy).md)
 - [Getting Started: GitHub Desktop (GUI) - (Easy)](tutorials/(Easy)&#32;GitHub&#32;Desktop&#32;(GUI).md)
 - [Getting Started: GitKraken (GUI) - (Intermediate)](tutorials/(Intermediate)&#32;GitKraken&#32;(GUI).md)
 - [Getting Started: Git (CLI) - (Intermediate)](tutorials/(Intermediate)&#32;Git&#32;(CLI).md)
