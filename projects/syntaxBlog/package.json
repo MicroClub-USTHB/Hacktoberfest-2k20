@@ -1,0 +1,26 @@
+{
+  "name": "syntax-blog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-filesystem": "^0.6.2",
+    "@gridsome/transformer-remark": "^0.6.1",
+    "gridsome": "^0.7.20",
+    "gridsome-plugin-remark-prismjs-all": "^0.3.5",
+    "moment": "^2.27.0",
+    "remark-attr": "^0.11.1",
+    "tailwindcss": "^1.6.2",
+    "vue-feather-icons": "^5.1.0",
+    "vue-headroom": "^0.10.1",
+    "vue-infinite-loading": "^2.4.5"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "prism-themes": "^1.4.0",
+    "sass-loader": "^9.0.3"
+  }
+}

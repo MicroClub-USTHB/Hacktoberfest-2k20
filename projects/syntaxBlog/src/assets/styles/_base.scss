@@ -1,0 +1,20 @@
+// Default
+* {
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+ 	background-color: var(--bg-color);
+ 	color: var(--text-color);
+ 	transition: color .6s, background-color .6s;
+  margin:0;
+  padding:0;
+  line-height: 1.9;
+}
+
+img {
+	max-width: 100%;
+}
+
