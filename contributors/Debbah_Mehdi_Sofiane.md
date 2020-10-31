@@ -23,10 +23,10 @@
 
 ## Development
 - i'm software engineer developer
-- java  and python developer 
+- java  and python  developer 
+- php and wordpress
 - network adminstrator
 
-***
 
 ## Profile Link
 - Github:[ MehdiSlik ](https://github.com/Mehdislik)
@@ -34,3 +34,5 @@
 - Linkedin : [MEhdi debbah](https://www.linkedin.com/in/mehdi-sofiane-debbah-392a751a3/)
 
 - facebook : [Mehdi DAdi](https://web.facebook.com/madi500)
+
+- dev  :[ MehdiSlik ](https://dev.to/mehdislik)
