@@ -3,14 +3,25 @@
 
 ![Micro Club does Hacktoberfest](https://www.pixenli.com/image/i4ptvTUk)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-150x25.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![GitHub Hacktoberfest combined status (suggestion label override)](https://img.shields.io/github/hacktoberfest/2020/MicroClub-USTHB/Hacktoberfest-2k20?color=indigo&label=Micro%20Club%20does%20Hacktoberfest%202k20)
+[![GitHub license](https://img.shields.io/github/license/MicroClub-USTHB/Hacktoberfest-2k20?color=green)](https://github.com/MicroClub-USTHB/Hacktoberfest-2k20)
+![Discord](https://img.shields.io/discord/764214722836430848?label=Micro%20Club%20community%20Discord)
+[![GitHub forks](https://img.shields.io/github/forks/MicroClub-USTHB/Hacktoberfest-2k20?logo=github)](https://github.com/MicroClub-USTHB/Hacktoberfest-2k20/network)
+[![GitHub stars](https://img.shields.io/github/stars/MicroClub-USTHB/Hacktoberfest-2k20?logo=github)](https://github.com/MicroClub-USTHB/Hacktoberfest-2k20/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/MicroClub-USTHB/Hacktoberfest-2k20?logo=github)
 
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/MicroClub-USTHB/Hacktoberfest-2k20?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/MicroClub-USTHB/Hacktoberfest-2k20?style=for-the-badge)
 
-**Other README langages:** [🇫🇷](translations/README_Fr.md),[AR](translations/README_Ar.md)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/MicroClub-USTHB/Hacktoberfest-2k20?color=critical&label=Open%20Pull%20Reuests)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/MicroClub-USTHB/Hacktoberfest-2k20?color=critical&label=Closed%20Pull%20Requests)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/MicroClub-USTHB/Hacktoberfest-2k20?label=Closed%20issues)
+![GitHub issues](https://img.shields.io/github/issues-raw/MicroClub-USTHB/Hacktoberfest-2k20?label=Open%20issues)
 
-### TL;DR: Register to the Hacktoberfest challenge, make 4 vaild Pull requests (PRs) on public repos on GitHub during the month of October and win a Limited Edition T-Shirt or have a Tree planted!
+
+
+**Other README langages:** [🇫🇷](translations/README_Fr.md), [🇩🇿](translations/README_Ar.md)
+
+### **TL;DR:** Register to the Hacktoberfest challenge, make 4 vaild Pull requests (PRs) on public repos on GitHub during the month of October and win a Limited Edition T-Shirt or have a Tree planted!
 
 ### 🔗 Link to Micro Club's hacktoberfest-2k20 [GitHub Pages / Repo Website](https://microclub-usthb.github.io/Hacktoberfest-2k20/)
 # Table of Content
