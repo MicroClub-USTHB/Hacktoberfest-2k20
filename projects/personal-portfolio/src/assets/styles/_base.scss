@@ -1,0 +1,18 @@
+// Default
+* {
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+ 	background-color: var(--bg-color);
+ 	color: var(--body-color);
+ 	transition: color .6s, background-color .6s;
+  margin:0;
+  padding:0;
+}
+
+img {
+	max-width: 100%;
+}

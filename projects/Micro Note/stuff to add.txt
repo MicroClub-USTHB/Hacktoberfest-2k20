@@ -1,0 +1,5 @@
+add the flash system (username is wrong msgs ect..)
+add a favorite note system.
+add admin system.
+fix the design of login/signup
+add error page

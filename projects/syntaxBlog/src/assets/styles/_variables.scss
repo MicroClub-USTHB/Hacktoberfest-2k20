@@ -1,0 +1,45 @@
+// Default variables
+html {
+  --base-font-size: 20px;
+  --second-font-size: 18px;
+}
+
+// Light default theme
+body {
+ 	--bg-color: #ffffff; // background color
+  --text-color: #404040; // text color
+  --text-hover: #4a5568; // text color hover
+ 	--title-color: #111; // heading color
+  --radius: 5px; // border-radius
+  --logo-color: #2d2d2d; // logo color
+  --link-bg: #f2f2f2; // show all link bg color
+  --link-color: #5a5a5a; // show all link color
+  --link-hover-bg: #e5e5e5; // show all link bg color hover
+  --each-color: #f2f2f2; // items (<li>) color
+  --note-color: #fff9b5; // note alert
+  --bad-code: #F7E8E8; // bad code div
+  --good-code: #cadcb6;
+}
+
+// Make things smaller for mobile
+@media screen and (max-width: 650px) {
+	html {
+    --base-font-size: 17px;
+    --second-font-size: 15px;
+	}
+}
+
+// Override variables for Dark theme
+body[lights-out] {
+ 	--bg-color: #202020;
+  --text-color: #b3b9c5;
+  --text-hover: #eee;
+  --title-color: #cecece;
+  --logo-color: #cecece;
+  --link-bg: #00000033;
+  --link-color: #969eaf;
+  --link-hover-bg: #00000052;
+  --each-color: #303030;
+  --note-color: #e4dfa3;
+  --bad-code: #e4a6a6;
+}

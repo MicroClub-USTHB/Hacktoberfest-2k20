@@ -11,10 +11,12 @@
 [![GitHub stars](https://img.shields.io/github/stars/MicroClub-USTHB/Hacktoberfest-2k20?logo=github)](https://github.com/MicroClub-USTHB/Hacktoberfest-2k20/stargazers)
 ![GitHub repo size](https://img.shields.io/github/repo-size/MicroClub-USTHB/Hacktoberfest-2k20?logo=github)
 
+
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/MicroClub-USTHB/Hacktoberfest-2k20?color=critical&label=Open%20Pull%20Reuests)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/MicroClub-USTHB/Hacktoberfest-2k20?color=critical&label=Closed%20Pull%20Requests)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/MicroClub-USTHB/Hacktoberfest-2k20?label=Closed%20issues)
 ![GitHub issues](https://img.shields.io/github/issues-raw/MicroClub-USTHB/Hacktoberfest-2k20?label=Open%20issues)
+
 
 
 **Other README langages:** [🇫🇷](translations/README_Fr.md), [🇩🇿](translations/README_Ar.md)

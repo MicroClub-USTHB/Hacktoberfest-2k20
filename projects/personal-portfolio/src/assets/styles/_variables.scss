@@ -1,0 +1,42 @@
+// Default variables
+html {
+  --base-font-size: 20px;
+  --second-font-size: 18px;
+}
+
+// Light default theme
+body {
+ 	--bg-color: #ffffff; // background color
+ 	--body-color: #747474; // text color
+ 	--title-color: #2b2b2b; // heading color
+ 	--link-color: #6b17e6; // links color
+ 	--border-color:  rgba(0,0,0,.1); // border-color
+  --space: 3.5rem; // margin, padding, ...
+  --radius: 5px; // border-radius
+  --special-color: #D0BB79;
+  --card-color: #f9f9f9;
+  --tags-bg-color: #fff;
+  --box-shadow: #bdbdbd;
+}
+
+// Make  things smaller for mobile
+@media screen and (max-width: 650px) {
+	html {
+		--base-font-size: 17px;
+	}
+	body {
+		--space: 1.5rem;
+	}
+}
+
+// Override variables for Dark theme
+body[lights-out] {
+ 	--bg-color: #1a202c;
+ 	--body-color: #ced8de;
+ 	--border-color:  rgba(255,255,255,.1);
+ 	--title-color: #fff;
+  --link-color: #af9cef;
+  --card-color: #222831;
+  --tags-bg-color: #1a202c;
+  --box-shadow: #0000001a;
+}

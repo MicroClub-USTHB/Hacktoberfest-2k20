@@ -1,0 +1,23 @@
+{
+  "name": "myPortfolio",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@luxdamore/vue-cursor-fx": "^1.4.0",
+    "epic-spinners": "^1.1.0",
+    "gridsome": "^0.7.0",
+    "vue-feather-icons": "^5.1.0",
+    "vue-kinesis": "^1.1.5",
+    "vue-scrollto": "^2.18.2",
+    "vue-typed-js": "^0.1.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.3",
+    "tailwindcss": "^1.6.2"
+  }
+}
