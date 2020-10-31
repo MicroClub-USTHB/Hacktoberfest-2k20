@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do App</title>
+    <link rel="stylesheet" href="/public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/public/css/style.css">
+</head>
+<body>
+    <%include ./navbar %>
+    <div class="my-5"></div>
+    <div class="d-flex w-100">
+        <div class="col-md-6 col-sm-8 col-10 p-0 mx-auto">
+          <form class="bg-white shadow Note" action="/Notes/create" method="post">
+            <div class="header">
+              <h1>New Note</h1>
+            </div>
+            <div class="body">
+              <input type="text" name="title" value="<%=title%>" class="m-0 p-0">
+              <textarea name="content" id=""></textarea>
+              <button type="submit" class="btn btn-outline-info save">Save</button>
+            </div>
+          </form>
+        </div>
+    </div>
+</body>
+    <script src="/public/js/jquery-3.5.1.min.js" ></script>
+    <script src="/public/js/bootstrap.bundle.js"></script>
+</html>

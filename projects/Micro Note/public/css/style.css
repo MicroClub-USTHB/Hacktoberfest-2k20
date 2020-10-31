@@ -1,0 +1,164 @@
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #355C7D;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #C06C84, #6C5B7B, #355C7D);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+}
+.Note{
+    border: .4em solid #355C7D;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin-left: -1%;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    background-color: #355C7D;
+    display: flex;
+    width: 100.5%;
+}
+.header h1{
+    margin: auto 1em;
+    color:white;
+    font-weight: bold;
+}
+.body{
+    margin-bottom: -.5%;
+}
+.body input,.body textarea{
+    padding:.3em;
+    padding-left: 1em;
+    width: 100.2%;
+    border: .2em solid transparent;
+    box-sizing: border-box;
+    font-size: 1.5em;
+    color: #666;
+    background-color: #F7F7F7;
+    transition: color,border,background .3s linear,height 1s ease-in;
+}
+.body input:focus,.body textarea:focus{
+    border: .2em solid #355C7D;
+    color: #355C7D;
+    background-color: transparent;
+    outline: none;
+}
+.save{
+    width: 100.2%;
+    margin-top: -1%;
+}
+.save:hover,.save:focus,.save:active,.save:focus-within{
+    border: .2em solid #355C7D;
+    color: white;
+    background-color: #355C7D;
+}
+.head{
+    background-color: #355C7D;
+    display: flex;
+    height: 4em;
+}
+
+.head h1{
+    margin: auto 1em;
+    color:white;
+    font-weight: bold;
+}
+svg{
+    fill: white;
+    height: 2em;
+    width: 2em;
+    margin: auto;
+    transition: fill .3s linear;
+}
+
+.save{
+    border-radius:0;
+    border: .2em solid transparent;
+    color: #355C7D;
+}
+.save:hover,.save:focus,.save:active,.save:focus-within{
+    border: .2em solid #355C7D;
+    color: white;
+    background-color: #355C7D;
+}
+.head div{
+    margin-left:auto;
+    margin-right: 0;
+    width: 4em;
+    display:flex;
+}
+.head div:hover{
+    background-color: white;
+}
+.Todo input,.Todo textarea{
+    padding:.3em;
+    padding-left: 1em;
+    width: 100%;
+    border: .2em solid transparent;
+    box-sizing: border-box;
+    font-size: 1.5em;
+    color: #666;
+    background-color: #F7F7F7;
+    transition: color,border,background .3s linear,height 1s ease-in;
+}
+.Todo input:focus,.Todo textarea:focus{
+    border: .2em solid #355C7D;
+    color: #355C7D;
+    background-color: transparent;
+    outline: none;
+}
+.Todo input.hide{
+    height: 0;
+    border:none;
+    padding:0;
+}
+.Todo ul{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+.Todo .item{
+    width: 100%;
+    color: #666;
+    box-sizing: border-box;
+    display:flex;
+    height: 3em;
+    display: flex;
+    align-items: center;
+}
+.Todo .item div{
+    background-color: red;
+    width:0;
+    height: 100%;
+    display: flex;
+    transition: width .3s linear;
+}
+.Todo .item:hover div{
+    width:3em;
+}
+.Todo .item h1{
+    padding-left: 1em;
+    font-size: 1.4em;
+}
+.Todo .item div:hover{
+    cursor: pointer;
+}
+
+div:hover > svg{
+    fill:#666;
+}
+.Todo ul li:nth-child(even){
+    background-color: #F7F7F7;
+}

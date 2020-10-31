@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do App</title>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-transparent shadow">
+        <button class="navbar-toggler mr-3" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#">Micro Notes</a>
+        <button class="navbar-toggler border-0 ml-auto p-0"  style="border-radius: 50%;" type="button" data-toggle="collapse" data-target="#UserNav" aria-controls="UserNav" aria-expanded="false" aria-label="Toggle navigation">
+            <img src="./img/avatar2.jpg" class="avatar" alt="avatar">
+        </button>
+        <div class="collapse navbar-collapse" id="UserNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Log in</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Sign up</a>
+            </li>
+          </ul>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Micro Clube</a>
+              </li>
+            </ul>
+          </div>
+    </nav>
+    <div class="d-flex flex-column align-items-center mt-5">
+        <h1 style="font-size: 6em;" class="col-8 text-center text-uppercase">Welcome to Micro Notes</h1>
+        <div class="btn-group col-8 mt-5 font-weight-bold" >
+            <a href="/login" class="btn btn-secondary ml-auto col-4" style="font-size: 1.2em; background-color: #C06C84;">LOG IN</a>
+            <a href="/signup" class="btn btn-primary mr-auto col-4" style="font-size: 1.2em;">SIGN UP</a>
+        </div>
+    </div>
+</body>
+    <script src="./js/jquery-3.5.1.min.js" ></script>
+    <script src="./js/bootstrap.bundle.js"></script>
+</html>

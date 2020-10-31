@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do App</title>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <nav class="navbar navbar-dark bg-transparent shadow">
+        <button class="navbar-toggler mr-3" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand" href="#">Micro Notes</a>
+        <button class="navbar-toggler border-0 ml-auto p-0"  style="border-radius: 50%;" type="button" data-toggle="collapse" data-target="#UserNav" aria-controls="UserNav" aria-expanded="false" aria-label="Toggle navigation">
+            <img src="./img/avatar2.jpg" class="avatar" alt="avatar">
+        </button>
+        <div class="collapse navbar-collapse" id="UserNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Log in</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Sign up</a>
+            </li>
+          </ul>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Features</a>
+              </li>
+            </ul>
+          </div>
+    </nav>
+    <div class="row w-100 mt-5">
+        <form class="shadow col-md-5 col-sm-7 col-9 p-0 mx-auto bg-light text-dark px-5" action="/login" method="POST">
+            <h1 class="text-center my-3">Log In</h1>
+            <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="Username">@</span>
+              </div>
+              <input type="text" name="username" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="Username">
+            </div>
+            <div class="input-group mb-3">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="password">password</span>
+              </div>
+              <input type="password" name="password" class="form-control" placeholder="password" aria-label="password" aria-describedby="password">
+            </div>
+            <div class="mx-0 row w-100 mb-5">
+              <button type="submit" class="mx-auto btn btn-outline-success col-5">Log in</button>
+              <a href="/" class="mx-auto btn btn-outline-warning col-5">Cancel</a>
+            </div>
+        </form>
+    </div>
+</body>
+    <script src="./js/jquery-3.5.1.min.js" ></script>
+    <script src="./js/bootstrap.bundle.js"></script>
+</html>
