@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do App</title>
+    <link rel="stylesheet" href="/public/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/public/css/style.css">
+</head>
+<body>
+    <%include ./navbar %>
+    <div class="d-flex flex-column align-items-center mt-5">
+        <h1 style="font-size: 6em;" class="col-8 text-center text-uppercase">Welcome to Micro Notes</h1>
+        <%if(User){%>
+            <div class="btn-group col-8 mt-5 font-weight-bold" >
+                <a href="/Notes" class="btn btn-secondary" style="font-size: 1.2em; background-color: #C06C84;">NOTES</a>
+            </div>
+        <%}else{%>
+        <div class="btn-group col-8 mt-5 font-weight-bold" >
+            <a href="/login" class="btn btn-secondary ml-auto col-4" style="font-size: 1.2em; background-color: #C06C84;">LOG IN</a>
+            <a href="/signup" class="btn btn-primary mr-auto col-4" style="font-size: 1.2em;">SIGN UP</a>
+        </div>
+        <%}%>
+    </div>
+</body>
+    <script src="/public/js/jquery-3.5.1.min.js" ></script>
+    <script src="/public/js/bootstrap.bundle.js"></script>
+</html>
