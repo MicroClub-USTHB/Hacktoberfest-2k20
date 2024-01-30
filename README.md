@@ -1,5 +1,5 @@
-# Micro Club does Hacktoberfest 2020!
-## 🎃✨ Open to public contribution / Beginners & First timers friendly✨🎃
+Micro Club does Hacktoberfest 2020!
+🎃✨ Open to public contribution / Beginners & First timers friendly✨🎃
 
 ![Micro Club does Hacktoberfest](https://www.pixenli.com/image/i4ptvTUk)
 
@@ -18,13 +18,12 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/MicroClub-USTHB/Hacktoberfest-2k20?label=Open%20issues)
 
 
+Other README langages:** [🇫🇷](translations/README_Fr.md), [🇩🇿](translations/README_Ar.md)
 
-**Other README langages:** [🇫🇷](translations/README_Fr.md), [🇩🇿](translations/README_Ar.md)
+**TL;DR:** Register to the Hacktoberfest challenge, make 4 vaild Pull requests (PRs) on public repos on GitHub during the month of October and win a Limited Edition T-Shirt or have a Tree planted!
 
-### **TL;DR:** Register to the Hacktoberfest challenge, make 4 vaild Pull requests (PRs) on public repos on GitHub during the month of October and win a Limited Edition T-Shirt or have a Tree planted!
-
-### 🔗 Link to Micro Club's hacktoberfest-2k20 [GitHub Pages / Repo Website](https://microclub-usthb.github.io/Hacktoberfest-2k20/)
-# Table of Content
+🔗 Link to Micro Club's hacktoberfest-2k20 [GitHub Pages / Repo Website](https://microclub-usthb.github.io/Hacktoberfest-2k20/)
+Table of Content
 * [TL:DR](#tldr-register-to-the-hacktoberfest-challenge-make-4-vaild-pull-requests-prs-on-public-repos-on-github-during-the-month-of-october-and-win-a-limited-edition-t-shirt-or-have-a-tree-planted)
 * [Table of Content](#table-of-content)
     - [I. The Who: Micro Club does Hacktoberfest!](#i-the-who-micro-club-does-hacktoberfest-mcs-3rd-edition)
@@ -35,14 +34,14 @@
 * [More Pull requests!](#want-to-do-more-pull-requests-heres-a-quick-list-for-other-begginers-friendly-ressources)
 * [Contact](#contact)
 
-## I. The Who: Micro Club does Hacktoberfest!
+I. The Who: Micro Club does Hacktoberfest!
 Hello there, we are [Micro Club](https://www.facebook.com/Micro.Club.USTHB/), a computer science student club at USTHB and we're taking part in Hacktoberfest for our 3rd consicutive year! 
 
 Founded in **March the 5th,1985** as the first scientific club in Algeria, Micro Club is operating as a scientific student club and a nonprofit organization that aims at popularizing computer science, IT and technology fields among the student community and extended to all those willing to learn and share their knowledge. Thus we put this repo at disposition to anyone willing to learn and share their knowledge while contributing to the open source community while having a fun challenge !!
 
 Micro Club will host online meetup events, workshops, update projects and challenges and more during the month of October! Stay tuned!
 
-## II. The What: What is Hacktoberfest?
+II. The What: What is Hacktoberfest?
 > #### "Changing the open source community, one pull request at a time."- Digital Ocean.
 
 Hacktoberfest is a month-long celebration of open source from **October 1st - 31st** every year. It's been around for 7 years and it is presented by [Digital Ocean, Inc](https://www.digitalocean.com/) and sponsored by [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source).
@@ -54,7 +53,7 @@ Event partners of this 7th edition of Hacktoberfest:
 - <a href="https://hacktoberfest.digitalocean.com/intel.pdf"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Intel_logo_%282020%2C_dark_blue%29.svg" alt="intel logo" width="30"></a> has joined the Hacktoberfest celebration this year to build on this foundation along with hundreds of thousands of software engineers around the world. [Checkout Intel's Challenge](https://hacktoberfest.digitalocean.com/intel.pdf).
 - AND MORE! Check them out on [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com/)
 
-### For more info about the event: [Hacktoberfest event website](https://hacktoberfest.digitalocean.com/)
+For more info about the event: [Hacktoberfest event website](https://hacktoberfest.digitalocean.com/)
 
 > - Hacktoberfest is open to everyone in the global community!
 > - Pull requests can be made in any GitHub-hosted repositories/projects.
@@ -63,7 +62,7 @@ Event partners of this 7th edition of Hacktoberfest:
 
 ___
 
-### III. The Why: Trick🎃 or Treat🍬, Tee👕 or Tree🌲! Why participate and what's in it for you?
+III. The Why: Trick🎃 or Treat🍬, Tee👕 or Tree🌲! Why participate and what's in it for you?
 
 ![](https://www.pixenli.com/image/pkgU7OQA)
 
@@ -76,13 +75,13 @@ Sign up and complete the Hacktoberfest challenge and:
 
 ___
 
-## IV. The How: How to participate and contribute to this project?
+IV. The How: How to participate and contribute to this project?
 
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest%20participation%3A-How%20to%20get%20involved%20and%20win%20that%20AWESOME%20LIMITED%20EDITION%20T--SHIRT%3F%20Check%20this-blueviolet?style=for-the-badge)
 
 Create your very first **Pull Request** to any public repository on GitHub (**including this one**) and contribute to the open source developer community.
 
-#### Before you start, make sure to read the [CONTRIBUTION](/CONTRIBUTING.md) rules.
+Before you start, make sure to read the [CONTRIBUTION](/CONTRIBUTING.md) rules.
 
 1. Make sure to first [Registister in the Hacktoberfest Challenge](https://hacktoberfest.digitalocean.com/login)
 2. Fork this repo
@@ -110,9 +109,9 @@ Happy hacking!!
 
 ___
 
-## V. Contributing: Tutorials, Challenges & BONUSES!! (all levels)
+V. Contributing: Tutorials, Challenges & BONUSES!! (all levels)
 
-### Tutorials:
+ Tutorials:
 Want to get started with a step by step tutorial for contributing, using different tools? You can check the [Tutorials](tutorials/README.md)
 
 <details>
@@ -130,7 +129,7 @@ These tutorials will help you familiarize with the tools you'll be using to cont
 
 `------------------------------------------------------------------`
 
-### List of Challenges & Tasks: ([See full list here](challenges/README.md))
+List of Challenges & Tasks: ([See full list here](challenges/README.md))
 
 Please refer to [List of Challenges](challenges/README.md) for full details. It will be updated progressively to include more fun contribution challenges and projects for all levels (Youngling > Jedi Master) and all different study fields and skill sets **(not just for programmers/coders)**!
 
